@@ -47,6 +47,10 @@
 ### 🤖 [malwarevangelist-bot](https://github.com/radicalkjax/malwarevangelist-bot) 
 > atproto bot bringing some automation to bluesky and beyond
 
+### 📦 [Kali's Kali](https://github.com/radicalkjax/Kalis-Kali)
+> Kali's Kali Linux container to do Kali things.
+
+
 ### ✨ other stuff
 ```markdown
 🐕 rocket pup     → coming eventually - a game about a dog saving the universe
@@ -72,26 +76,21 @@
 ![Shell](https://img.shields.io/badge/Shell-6D105A?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-6D105A?style=for-the-badge&logo=html5&logoColor=white)
 
-</div>
+<br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>🧠 deep learning & malware analysis</b><br>
-      tensorflow • python • neural networks
-    </td>
-    <td align="center">
-      <b>💻 languages</b><br>
-      typescript • javascript • python • shell • html • rust
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <b>💜 interests</b><br>
-      cybersecurity • ai/ml • finding joy in the chaos • enjoying the beauty of humans and our universe
-    </td>
-  </tr>
-</table>
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=hackaday&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-95E1D3?style=for-the-badge&logo=pytorch&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-F38181?style=for-the-badge&logo=virustotal&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-AA96DA?style=for-the-badge&logo=graphql&logoColor=white)
+
+<br>
+
+![Chaos](https://img.shields.io/badge/Chaos-FCBAD3?style=for-the-badge&logo=atom&logoColor=white) **finding joy in the chaos**
+
+![Humanity](https://img.shields.io/badge/Humanity-FFFFD2?style=for-the-badge&logo=sparkles&logoColor=black) **enjoying the beauty of humans and our universe**
+
+</div>
 
 ## 📊 github stats
 
@@ -108,23 +107,15 @@
 
 ## 💭 what I'm thinking about
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <p align="left">
-          <em>I spend a lot of time thinking about how to open doors for others.</em><br>
-          <em>I love to day dream about malware, there's something beautiful</em><br>
-          <em>about the chaos that malware authors create.</em>
-        </p>
-        <p align="left">
-          <em>if you want to know more about my journey,</em><br>
-          <em>check out my <a href="https://radicalkjax.com">blog</a>.</em>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <em>I spend a lot of time thinking about how to open doors for others.</em><br>
+  <em>I love to day dream about malware, there's something beautiful</em><br>
+  <em>about the chaos that malware authors create.</em>
+</p>
+
+<p align="center">
+  <em>if you want to know more about my journey, check out my <a href="https://radicalkjax.com">blog</a>.</em>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer&fontSize=0" width="100%" />
@@ -134,8 +125,9 @@
   
   [![](https://visitcount.itsvg.in/api?id=radicalkjax&label=Profile%20Views&color=6D105A&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  
+</div>
+
+<div align="center">
+🏳️‍⚧️ Building a more inclusive future, one line of code at a time:
+"Hacker joy isn't just about breaking things. It's about building communities that celebrate curiosity, learning, and authentic connection in our digital world."
 </div>
