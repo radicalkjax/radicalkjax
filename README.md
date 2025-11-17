@@ -28,6 +28,9 @@
   <a href="https://bsky.app/profile/radicalkjax.com">
     <img src="https://img.shields.io/badge/Bluesky-6D105A?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
+  <a href="https://x.com/RadicalKjax">
+    <img src="https://img.shields.io/badge/Twitter-6D105A?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/kali-jackson-647094245">
     <img src="https://img.shields.io/badge/LinkedIn-6D105A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
