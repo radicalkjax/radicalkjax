@@ -14,10 +14,10 @@
 
 <div align="center">
   <p>
-    <em>I'm just a girl who fell in love with hacking culture through my own curiosity around game modding and Soma FM.</em><br>
-    <em>Reverse engineering a open-sourcing enterprise toolings is my hobby. Building large systems and managing projects is my job.</em><br>
-    <em>I love playing a support role and you'll catch me floating through communities regularly providing resources where I can.</em><br>
-    <em>I spend a lot of time thinking about how to open doors for others.</em><br>
+    <em>I'm just a girl who fell in love with hacking culture through her own curiosity around game modding, engineering and Soma FM.</em><br>
+    <em>Reverse engineering, creating open-sourcing enterprise tooling and hacking are my hobbies. Building large systems and managing projects is my job.</em><br>
+    <em>I love playing support roles, you'll catch me floating through tech/hacking communities regularly providing resources where I can.</em><br>
+    <em>Thinking about how to open doors and carve paths for others brings me joy.</em><br>
   </p>
 </div>
 
