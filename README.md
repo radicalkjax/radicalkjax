@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=header&fontSize=0" width="100%" />
+  <img src="https://media1.tenor.com/m/YWtp47njsuMAAAAd/i%27ll-just-warn-you-now-i-don%27t-know-how-to-use-a-computer-sailor-moon.gif" width="50%" />
 </div>
 
 <div align="center">
