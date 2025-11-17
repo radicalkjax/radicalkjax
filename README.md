@@ -38,23 +38,30 @@
 
 <br>
 
-## 💜 what i'm working on
+## 💜 what i'm working on (too much)
 
 <div align="left">
 
 ```markdown  
-🛡️ [athena](https://github.com/radicalkjax/Athena) > deobfuscation tool utilizing ai - because malware authors love their puzzles, and I love solving them <3
+🛡️ [athena](https://github.com/radicalkjax/Athena) → deobfuscation tool utilizing ai - because malware authors love their puzzles, and I love solving them <3
 
-🤖 [malwarevangelist-bot](https://github.com/radicalkjax/malwarevangelist-bot) > atproto bot bringing some automation to bluesky and beyond
+🤖 [malwarevangelist-bot](https://github.com/radicalkjax/malwarevangelist-bot) → atproto bot bringing some automation to bluesky and beyond
 
-📦 [Kali's Kali](https://github.com/radicalkjax/Kalis-Kali) > Kali's Kali Linux container to do Kali things.
+📦 [Kali's Kali](https://github.com/radicalkjax/Kalis-Kali) → Kali's Kali Linux container to do Kali things.
+
+⚙️ [ossidata](https://github.com/ScopeCreep-zip/ossidata) → Rust SDK for Arduino built with AI automation in-mind
+
+🔄 [Claude Code Orchestration](https://github.com/goldenapplestudios/Claude-Orchestration-System) → A Claude Code workflow to help keep tasks and project automated
 
 🐕 rocket pup     → coming eventually - a game about a dog saving the universe
+
 🌵 caliphoria     → Travel through the post-apocalyptic wasteland of CA 
                     all the way from Mt. Lassen to MexiCali to find out 
                     how it's gotten so...weird...
+
 🔮 malwarEvangelist → Grassroots community building tools using a blend 
                       of cult and cognitive psychology
+
 📝 my blog        → where i write about things
 ```
 
