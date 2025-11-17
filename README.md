@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header with typing effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=60000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=Hi%2C+I'm+Kali+Jackson;@radicalkjax)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=0&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=Hi%2C+I'm+Kali+Jackson;@radicalkjax)](https://git.io/typing-svg)
 
 <!-- Static subtitle -->
 **weeb | nerd | goober | hack-a-doodler | smartest airhead**
