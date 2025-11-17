@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=60000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=Hi%2C+I'm+Kali+Jackson;@radicalkjax)](https://git.io/typing-svg)
 
 <!-- Static subtitle -->
-**weeb | nerd | goober | hack-a-doodler**
+**weeb | nerd | goober | hack-a-doodler | smartest airhead**
 
 </div>
 
@@ -14,9 +14,10 @@
 
 <div align="center">
   <p>
-    <em>I'm a girl who fell in love with hacking culture through my own curiosity and Soma FM.</em><br>
-    <em>These days I work as a technical solutions specialist & technical lead,</em><br>
-    <em>but my heart lives somewhere between networks, malware analysis, policy and cognitive psychology.</em>
+    <em>I'm just a girl who fell in love with hacking culture through my own curiosity around game modding and Soma FM.</em><br>
+    <em>Reverse engineering a open-sourcing enterprise toolings is my hobby. Building large systems and managing projects is my job.</em><br>
+    <em>I love playing a support role and you'll catch me floating through communities regularly providing resources where I can.</em><br>
+    <em>I spend a lot of time thinking about how to open doors for others.</em><br>
   </p>
 </div>
 
@@ -40,19 +41,14 @@
 ## 💜 what i'm working on
 
 <div align="left">
-  
-### 🛡️ [athena](https://github.com/radicalkjax/Athena)
-> deobfuscation tool utilizing ai - because malware authors love their puzzles, and I love solving them <3
 
-### 🤖 [malwarevangelist-bot](https://github.com/radicalkjax/malwarevangelist-bot) 
-> atproto bot bringing some automation to bluesky and beyond
+```markdown  
+🛡️ [athena](https://github.com/radicalkjax/Athena) > deobfuscation tool utilizing ai - because malware authors love their puzzles, and I love solving them <3
 
-### 📦 [Kali's Kali](https://github.com/radicalkjax/Kalis-Kali)
-> Kali's Kali Linux container to do Kali things.
+🤖 [malwarevangelist-bot](https://github.com/radicalkjax/malwarevangelist-bot) > atproto bot bringing some automation to bluesky and beyond
 
+📦 [Kali's Kali](https://github.com/radicalkjax/Kalis-Kali) > Kali's Kali Linux container to do Kali things.
 
-### ✨ other stuff
-```markdown
 🐕 rocket pup     → coming eventually - a game about a dog saving the universe
 🌵 caliphoria     → Travel through the post-apocalyptic wasteland of CA 
                     all the way from Mt. Lassen to MexiCali to find out 
@@ -86,10 +82,6 @@
 
 <br>
 
-![Chaos](https://img.shields.io/badge/Chaos-FCBAD3?style=for-the-badge&logo=atom&logoColor=white) **finding joy in the chaos**
-
-![Humanity](https://img.shields.io/badge/Humanity-FFFFD2?style=for-the-badge&logo=sparkles&logoColor=black) **enjoying the beauty of humans and our universe**
-
 </div>
 
 ## 📊 github stats
@@ -105,29 +97,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=radicalkjax&theme=radical&hide_border=true&background=1a1a1a&ring=6D105A&fire=6D105A&currStreakLabel=6D105A" />
 </div>
 
-## 💭 what I'm thinking about
-
-<p align="center">
-  <em>I spend a lot of time thinking about how to open doors for others.</em><br>
-  <em>I love to day dream about malware, there's something beautiful</em><br>
-  <em>about the chaos that malware authors create.</em>
-</p>
-
 <p align="center">
   <em>if you want to know more about my journey, check out my <a href="https://radicalkjax.com">blog</a>.</em>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=100&section=footer&fontSize=0" width="100%" />
-</div>
-
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=radicalkjax&label=Profile%20Views&color=6D105A&icon=5&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
-
-<div align="center">
-🏳️‍⚧️ Building a more inclusive future, one line of code at a time:
+🏳️‍⚧️ Building a more inclusive future, bit-by-bit:
 "Hacker joy isn't just about breaking things. It's about building communities that celebrate curiosity, learning, and authentic connection in our digital world."
 </div>
