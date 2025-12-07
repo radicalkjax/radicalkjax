@@ -52,6 +52,8 @@
 
 📦 [Kali's Kali](https://github.com/radicalkjax/Kalis-Kali) → Kali's Kali Linux container to do Kali things.
 
+🖋️ [Clicky - Claude PenTesting Worflow](https://github.com/goldenapplestudios/Clicky) → Claude subagent pentesting workflow utilizing Skills and scripts. Get started by using /pentest
+
 ⚙️ [ossidata](https://github.com/ScopeCreep-zip/ossidata) → Rust SDK for Arduino built with AI automation in-mind
 
 🔄 [Claude Code Orchestration](https://github.com/goldenapplestudios/Claude-Orchestration-System) → A Claude Code workflow to help keep tasks and project automated
