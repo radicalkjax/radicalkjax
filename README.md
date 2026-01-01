@@ -47,7 +47,7 @@
   
 🛡️ [athena](https://github.com/radicalkjax/Athena) → deobfuscation tool utilizing ai - because malware authors love their puzzles, and I love solving them <3
 
-🤖 [malwarevangelist-bot](https://github.com/radicalkjax/malwarevangelist-bot) → atproto bot bringing some automation to bluesky and beyond
+🤖 [malwarevangelist-bot](https://github.com/radicalkjax/malwarevangelist-bot) → atproto bot influencing people to learn more about hacking and cybersec
 
 📦 [Kali's Kali](https://github.com/radicalkjax/Kalis-Kali) → Kali's Kali Linux container to do Kali things.
 
@@ -63,10 +63,10 @@
                     all the way from Mt. Lassen to MexiCali to find out 
                     how it's gotten so...weird...
 
-🔮 malwarEvangelist → Grassroots community building tools using a blend 
+🔮 [malwarEvangelist](https://malwarevangelist.com) → Grassroots community building tools using a blend 
                       of cult and cognitive psychology
 
-📝 my blog        → where i write about things
+📝 [my blog](https://radicalkjax.com)        → where i write about things
 
 </div>
 
