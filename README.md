@@ -44,8 +44,7 @@
 ## 💜 what i'm working on (too much)
 
 <div align="left">
-
-```markdown  
+  
 🛡️ [athena](https://github.com/radicalkjax/Athena) → deobfuscation tool utilizing ai - because malware authors love their puzzles, and I love solving them <3
 
 🤖 [malwarevangelist-bot](https://github.com/radicalkjax/malwarevangelist-bot) → atproto bot bringing some automation to bluesky and beyond
@@ -68,7 +67,6 @@
                       of cult and cognitive psychology
 
 📝 my blog        → where i write about things
-```
 
 </div>
 
@@ -96,24 +94,11 @@
 
 </div>
 
-## 📊 github stats
-
-<div align="center">
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=radicalkjax&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a1a&title_color=6D105A&text_color=ffffff&icon_color=6D105A"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radicalkjax&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=6D105A&text_color=ffffff"/>
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radicalkjax&theme=radical&hide_border=true&background=1a1a1a&ring=6D105A&fire=6D105A&currStreakLabel=6D105A" />
-</div>
-
 <p align="center">
   <em>if you want to know more about my journey, check out my <a href="https://radicalkjax.com">blog</a>.</em>
 </p>
 
 <div align="center">
 🏳️‍⚧️ Building a more inclusive future, bit-by-bit:
-"Hacker joy isn't just about breaking things. It's about building communities that celebrate curiosity, learning, and authentic connection in our digital world."
+"Hacker joy isn't just about breaking things. It's about building communities that celebrate curiosity, learning, and authentic connection in our world."
 </div>
