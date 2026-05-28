@@ -41,32 +41,41 @@
 
 <br>
 
-## 💜 what i'm working on (too much)
+# 💜 Projects & Art
 
-<div align="left">
+### Group Projects
+
+#### Scopecreep.zip
+
+[Spiritstream](https://github.com/scopecreep-zip/spiritstream) → OBS Stream Multicaster and encoder.
+
+[Rekindle](https://github.com/scopecreep-zip/rekindle) → Private Gaming chat client inspired gaming culture
+
+[Springtale](https://github.com/scopecreep-zip/springtale) → Cooperative Bot Architecture with RTS-game style GUI
+
+---
+
+### Personal
+
+#### Tech & Cyberz
   
-🛡️ [athena](https://github.com/radicalkjax/Athena) → deobfuscation tool utilizing ai - because malware authors love their puzzles, and I love solving them <3
+🛡️ [athena](https://github.com/radicalkjax/Athena) → (incomplete) malware RE sandbox with AI-assistance.
 
-🤖 [malwarevangelist-bot](https://github.com/radicalkjax/malwarevangelist-bot) → atproto bot influencing people to learn more about hacking and cybersec
+🤖 [malwarevangelist-bot](https://github.com/radicalkjax/malwarevangelist-bot) → (spaghet) atproto bot influencing people to learn more about hacking and cybersec
 
-📦 [Kali's Kali](https://github.com/radicalkjax/Kalis-Kali) → Kali's Kali Linux container to do Kali things.
+📦 [Kali's Kali](https://github.com/radicalkjax/Kalis-Kali) → (needs love) Kali's Kali Linux container to do Kali things.
 
 🖋️ [Clicky - Claude PenTesting Worflow](https://github.com/goldenapplestudios/Clicky) → Claude subagent pentesting workflow utilizing Skills and scripts. Get started by using /pentest
 
-⚙️ [ossidata](https://github.com/ScopeCreep-zip/ossidata) → Rust SDK for Arduino built with AI automation in-mind
+⚙️ [ossidata](https://github.com/ScopeCreep-zip/ossidata) → (incomplete) Rust SDK for Arduino built with AI automation in-mind
 
-🔄 [Claude Code Orchestration](https://github.com/goldenapplestudios/Claude-Orchestration-System) → A Claude Code workflow to help keep tasks and project automated
+#### Games and Experiences
 
 🐕 rocket pup     → coming eventually - a game about a dog saving the universe
 
 🌵 caliphoria     → Travel through the post-apocalyptic wasteland of CA 
                     all the way from Mt. Lassen to MexiCali to find out 
                     how it's gotten so...weird...
-
-🔮 [malwarEvangelist](https://malwarevangelist.com) → Grassroots community building tools using a blend 
-                      of cult and cognitive psychology
-
-📝 [my blog](https://radicalkjax.com)        → where i write about things
 
 </div>
 
