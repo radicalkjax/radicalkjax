@@ -45,11 +45,11 @@
 
 ### Group Projects
 
-#### Scopecreep.zip
+#### [Scopecreep.zip](https://scopecreep.zip)
 
 [Spiritstream](https://github.com/scopecreep-zip/spiritstream) → OBS Stream Multicaster and encoder.
 
-[Rekindle](https://github.com/scopecreep-zip/rekindle) → Private Gaming chat client inspired gaming culture
+[Rekindle](https://github.com/scopecreep-zip/rekindle) → Private gaming chat client inspired by gaming culture
 
 [Springtale](https://github.com/scopecreep-zip/springtale) → Cooperative Bot Architecture with RTS-game style GUI
 
